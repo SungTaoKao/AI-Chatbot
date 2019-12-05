@@ -1,0 +1,18 @@
+{
+    "name": "RBA-Jordan",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "42c09160-178f-11ea-951a-959da176bd96",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\paukao\\Documents\\Hackathon\\2019-Orlando\\AI-Chatbot\\RBA-Jordan.bot"
+}
